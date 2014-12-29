@@ -1,0 +1,15 @@
+org/github/jipsg/pdf/PdfDocumentComparator$1.class
+org/github/jipsg/pdf/PdfDocumentComparator.class
+org/github/jipsg/common/image/compare/impl/XorImageComparator.class
+org/github/jipsg/pdf/PdfDocumentComparatorResult.class
+org/github/jipsg/pdfbox/PDDocumentFactory.class
+org/github/jipsg/common/image/BufferedImageUtils.class
+org/github/jipsg/common/image/BufferedImageFactory.class
+org/github/jipsg/common/image/diff/ImageDiffer.class
+org/github/jipsg/common/image/BufferedImageHistogram.class
+org/github/jipsg/common/image/diff/impl/XorImageDiffer.class
+org/github/jipsg/pdf/PdfDocumentComparatorResultWriter.class
+org/github/jipsg/common/image/compare/ImageComparator.class
+org/github/jipsg/pdf/PdfDocumentComparatorResults.class
+org/github/jipsg/pdfbox/PdfToImageConverter.class
+org/github/jipsg/common/image/compare/ImageComparatorResult.class

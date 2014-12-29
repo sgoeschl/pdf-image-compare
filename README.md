@@ -1,4 +1,5 @@
 pdf-image-compare
 =================
 
-Visual riffing of PDF documents based on Apache PDFBox
+Visual diffing of PDF documents based on Apache PDFBox
+
